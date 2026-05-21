@@ -1,0 +1,14 @@
+opencv-python
+tensorflow
+Flask
+Flask-SocketIO
+mediapipe
+numpy
+urllib3
+python-engineio
+python-socketio
+Pillow
+pandas
+seaborn
+scikit-learn
+matplotlib
